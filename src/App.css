@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    border: 3px solid black;
+    background-color: blueviolet;
+}
+
+.container h2 {
+    text-align: center;
+}
